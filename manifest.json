@@ -1,0 +1,1 @@
+{"name":"Mercado Manu - Asistente de compras","short_name":"Mercado Manu","description":"Calculadora de compras, cámara y tasas con funcionamiento sin conexión","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f2f5fc","theme_color":"#182449","lang":"es","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
